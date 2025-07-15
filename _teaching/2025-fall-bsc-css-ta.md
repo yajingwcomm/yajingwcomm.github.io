@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2025-fall-bsc-css-ta
 venue: "University of Amsterdam, Faculty of Social and Behavioural Sciences"
 date: 2025-09-01
+semester: "2025–2026 Fall Semester"
 location: "Amsterdam, Netherlands"
 ---
 
