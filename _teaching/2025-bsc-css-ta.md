@@ -3,7 +3,7 @@ title: "Teaching Assistant for BSc Computational Social Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-bsc-css-ta
-venue: "University of Amsterdam, Faculty of Social and Behavioural Sciences"
+venue: "Faculty of Social and Behavioural Sciences, University of Amsterdam"
 date: 2025-09-01
 location: "Amsterdam, Netherlands"
 ---
