@@ -1,1 +1,24 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+collection: research
+---
+{% include base_path %}
+
+{% if site.research.size == 0 %}
+<p>No research items found.</p>
+{% else %}
+<ul class="archive-list">
+  {% for item in site.research %}
+  <li>
+    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% if item.excerpt %}
+      <p>{{ item.excerpt | truncatewords: 40 }}</p>
+    {% endif %}
+    <small>{{ item.year }}</small>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
 
