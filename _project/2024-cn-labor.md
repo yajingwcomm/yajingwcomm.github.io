@@ -1,5 +1,5 @@
 ---
-title: "China Labor Trend"
+title: "[China Labor Trend](https://www.laodongqushi.com/)"
 collection: project
 role: Project Member
 year: 2024
