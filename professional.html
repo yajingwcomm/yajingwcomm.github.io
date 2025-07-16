@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Professional Experience"
+permalink: /professional/
+collection: professional
+---
+{% include base_path %}
+
+{% if site.professional.size == 0 %}
+<p>No professional experience items found.</p>
+{% else %}
+<ul class="archive-list">
+  {% for item in site.professional %}
+  <li>
+    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% if item.excerpt %}
+      <p>{{ item.excerpt | truncatewords: 40 }}</p>
+    {% endif %}
+    <small>{{ item.year }}</small>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
