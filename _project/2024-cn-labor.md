@@ -7,7 +7,6 @@ permalink: /project/2024-cn-labor
 venue: "Independent Research Collaboration"
 date: 2024-02-01
 location: "Shanghai, China"
-excerpt: "Data-informed public reporting on platform labor and worker activism in China."
 ---
 
 - Compiled empirical research on platform labor, internet activism, and workers’ social networks to enhance public accessibility  
