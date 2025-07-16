@@ -1,13 +1,11 @@
 ---
-title: "Quantifying Intimacy: How datafied parenting practices reconfigure intimacy-making in urban China"
+title: "Paper Title"
 collection: research
 type: publication
 authors: "Wang, Y., Qian, J."
 year: 2025
-status: Under Review
-venue: *Journal of Children and Media*
-excerpt: "Examines how digital parenting technologies reshape intimacy practices in urban China."
+status: "Under Review"
+venue: "Journal of Children and Media"
+excerpt: "Examines how datafied parenting reshapes intimacy in urban China."
 ---
-
-Paper under review at *Journal of Children and Media*.
 
