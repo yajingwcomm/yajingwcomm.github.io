@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Projects"
+permalink: /project/
+collection: project
+---
+{% include base_path %}
+
+{% if site.project.size == 0 %}
+<p>No project items found.</p>
+{% else %}
+<ul class="archive-list">
+  {% for item in site.project %}
+  <li>
+    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% if item.excerpt %}
+      <p>{{ item.excerpt | truncatewords: 40 }}</p>
+    {% endif %}
+    <small>{{ item.year }}</small>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}
