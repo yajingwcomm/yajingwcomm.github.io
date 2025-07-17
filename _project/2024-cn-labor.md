@@ -4,7 +4,7 @@ url: "https://www.laodongqushi.com/"
 collection: project
 role: "Project Member"
 duration: "2024.02 – 2024.05"
-permalink: /project/2024-china-labor-trend
+permalink: /project/2024-cn-labor
 ---
 
 - Compiled empirical research on platform labor, internet activism, and social networks of workers to enhance public accessibility  
