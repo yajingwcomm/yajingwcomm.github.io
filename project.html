@@ -2,10 +2,16 @@
 layout: archive
 title: "Projects"
 permalink: /project/
-author_profile: true
 ---
 
-{% include base_path %}
-{% for item in site.project %}
-  {% include archive-single.html %}
-{% endfor %}
+<h1>{{ page.title }}</h1>
+
+<ul>
+  {% for item in site.project %}
+  <li>
+    <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+    <p><small>{{ item.date | date: "%b %Y" }}</small></p>
+    <div>{{ item.content | markdownify }}</div>
+  </li>
+  {% endfor %}
+</ul>
