@@ -2,22 +2,29 @@
 layout: archive
 title: "Professional Experience"
 permalink: /professional/
-collection: professional
+author_profile: true
 ---
+
+<h2>Professional Experience</h2>
+
 {% include base_path %}
 
-{% if site.professional.size == 0 %}
-<p>No professional experience items found.</p>
-{% else %}
-<ul class="archive-list">
+<ul class="entries">
   {% for item in site.professional %}
-  <li>
-    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-    {% if item.excerpt %}
-      <p>{{ item.excerpt | truncatewords: 40 }}</p>
+  <li class="entry">
+    <h3 class="entry-title">{{ item.venue }}</h3>
+    <p class="entry-meta">
+      <time datetime="{{ item.date | date: "%Y-%m-%d" }}">
+        {{ item.date | date: "%m/%Y" }}
+      </time>
+      {% if item.location %} | {{ item.location }}{% endif %}
+    </p>
+    <p class="entry-role">{{ item.role }}</p>
+    {% if item.content %}
+      <div class="entry-description">
+        {{ item.content | markdownify }}
+      </div>
     {% endif %}
-    <small>{{ item.year }}</small>
   </li>
   {% endfor %}
 </ul>
-{% endif %}
