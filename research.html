@@ -4,21 +4,40 @@ title: "Research"
 permalink: /research/
 collection: research
 ---
-{% include base_path %}
 
-{% if site.research.size == 0 %}
-<p>No research items found.</p>
-{% else %}
-<ul class="archive-list">
-  {% for item in site.research %}
-  <li>
-    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-    {% if item.excerpt %}
-      <p>{{ item.excerpt | truncatewords: 40 }}</p>
-    {% endif %}
-    <small>{{ item.year }}</small>
-  </li>
+<!-- Research Interests -->
+<h2>Research Interests</h2>
+<p>
+  My research focuses on the intersection of <strong>computational social science</strong>, <strong>behavioral change</strong>, and <strong>digital communication</strong>. I am particularly interested in climate communication, AI ethics, and data-driven public engagement.
+</p>
+
+<!-- Publications & Work in Progress -->
+<h2>Publications & Work in Progress</h2>
+<ul>
+  {% assign pubs = site.publications | sort: 'date' | reverse %}
+  {% for item in pubs %}
+    <li>
+      <strong>{{ item.title }}</strong>{% if item.authors %} – {{ item.authors }}{% endif %}
+      {% if item.venue %}<em>, {{ item.venue }}</em>{% endif %}
+      {% if item.date %} ({{ item.date | date: "%Y" }}){% endif %}
+      {% if item.link %} [<a href="{{ item.link }}" target="_blank">link</a>]{% endif %}
+    </li>
   {% endfor %}
 </ul>
-{% endif %}
+
+<!-- Research Experience -->
+<h2>Research Experience</h2>
+<ul>
+  {% assign research_items = site.research | sort: 'date' | reverse %}
+  {% for item in research_items %}
+    <li>
+      <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br/>
+      <span class="text-muted">
+        {{ item.venue }}, {{ item.location }}  
+        {% if item.date %} – {{ item.date | date: "%B %Y" }}{% endif %}
+      </span>
+      <p>{{ item.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
