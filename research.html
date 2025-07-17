@@ -1,43 +1,31 @@
 ---
 layout: archive
-title: "Research"
+title: "Research" 
 permalink: /research/
-collection: research
+author_profile: true
 ---
 
-<!-- Research Interests -->
-<h2>Research Interests</h2>
-<p>
-  My research focuses on the intersection of <strong>computational social science</strong>, <strong>behavioral change</strong>, and <strong>digital communication</strong>. I am particularly interested in climate communication, AI ethics, and data-driven public engagement.
-</p>
+### Research Interests
 
-<!-- Publications & Work in Progress -->
-<h2>Publications & Work in Progress</h2>
-<ul>
-  {% assign pubs = site.publications | sort: 'date' | reverse %}
-  {% for item in pubs %}
-    <li>
-      <strong>{{ item.title }}</strong>{% if item.authors %} – {{ item.authors }}{% endif %}
-      {% if item.venue %}<em>, {{ item.venue }}</em>{% endif %}
-      {% if item.date %} ({{ item.date | date: "%Y" }}){% endif %}
-      {% if item.link %} [<a href="{{ item.link }}" target="_blank">link</a>]{% endif %}
-    </li>
-  {% endfor %}
-</ul>
+My research lies at the intersection of computational social science, media psychology, and political communication. I am particularly interested in how digital platforms influence behavior, public opinion, and privacy norms. My current projects focus on AI-mediated communication, digital surveillance, and behavioral interventions in climate and health domains.
 
-<!-- Research Experience -->
-<h2>Research Experience</h2>
-<ul>
-  {% assign research_items = site.research | sort: 'date' | reverse %}
-  {% for item in research_items %}
-    <li>
-      <strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br/>
-      <span class="text-muted">
-        {{ item.venue }}, {{ item.location }}  
-        {% if item.date %} – {{ item.date | date: "%B %Y" }}{% endif %}
-      </span>
-      <p>{{ item.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+---
+
+### Publications & Work in Progress
+
+{% for post in site.research reversed %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p><strong>{{ post.authors }}</strong><br>
+  <em>{{ post.venue }}</em> • {{ post.date | date: "%B %Y" }}</p>
+{% endfor %}
+
+---
+
+### Research Experience
+
+- **Research Assistant**, Digital Media Lab, UvA (2024–present)  
+  Work on AI-generated narratives and trust calibration in health communication.
+
+- **Independent Project**, "Quantified Intimacy" (2025)  
+  A mixed-method study on algorithmic profiling and self-disclosure in dating apps.
 
