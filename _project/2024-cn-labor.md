@@ -1,5 +1,5 @@
 ---
-title: "[China Labor Trend](https://www.laodongqushi.com/)"
+title: "China Labor Trend"
 layout: single
 collection: project
 permalink: /project/2024-cn-labor/
