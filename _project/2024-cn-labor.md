@@ -1,11 +1,9 @@
 ---
-title: "China Labor Trend"
+title: "[China Labor Trend](https://www.laodongqushi.com/)"
 layout: single
 collection: project
 permalink: /project/2024-cn-labor/
 ---
-
-# [China Labor Trend](https://www.laodongqushi.com/)
 
 **Project Member**  
 *2024.02 – 2024.05*
