@@ -5,8 +5,6 @@ permalink: /professional/
 author_profile: true
 ---
 
-## Professional Experience
-
 **The Walt Disney Company**  
 *2023 – 2024*  
 Film Studio Integrated Marketing & Analytics Intern  
