@@ -22,6 +22,6 @@ author_profile: true
 
 **The Paper**  
 ======
-*04/2022 – 09/2022*  
+- *04/2022 – 09/2022*  
 - International Journalist Intern
 - Fact-checking Program
