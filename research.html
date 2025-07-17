@@ -1,31 +1,25 @@
 ---
 layout: archive
-title: "Research" 
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-### Research Interests
+<h2>Research Interests</h2>
+<p>My research interests lie at the intersection of human-computer interaction, human-centered AI, AI-mediated communication, social and affective computing, interaction and experience design, and computational communication methods.</p>
 
-My research lies at the intersection of computational social science, media psychology, and political communication. I am particularly interested in how digital platforms influence behavior, public opinion, and privacy norms. My current projects focus on AI-mediated communication, digital surveillance, and behavioral interventions in climate and health domains.
-
----
-
-### Publications & Work in Progress
-
-{% for post in site.research reversed %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p><strong>{{ post.authors }}</strong><br>
-  <em>{{ post.venue }}</em> • {{ post.date | date: "%B %Y" }}</p>
+<h2>Publications & Work in Progress</h2>
+{% for item in site.research %}
+  {% if item.category == "publication" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
----
+<h2>Research Experience</h2>
+{% for item in site.research %}
+  {% if item.category == "experience" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
-### Research Experience
-
-- **Research Assistant**, Digital Media Lab, UvA (2024–present)  
-  Work on AI-generated narratives and trust calibration in health communication.
-
-- **Independent Project**, "Quantified Intimacy" (2025)  
-  A mixed-method study on algorithmic profiling and self-disclosure in dating apps.
 
