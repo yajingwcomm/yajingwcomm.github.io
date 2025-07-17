@@ -1,4 +1,3 @@
-
 ---
 title: "China Labor Trend"
 layout: single
