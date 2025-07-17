@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Communication Science (Research), University of Amsterdam, 2026 (expected)
+* BA in Journalism and Communication (cum laude), Shanghai International Studies University , 2020 - 2024
+
 
 Work experience
 ======
@@ -32,9 +32,9 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Skills:
 ======
-* Skill 1
+* Languages
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -47,11 +47,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -61,4 +56,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: Convergence: The International Journal of Research into New Me-
+dia Technologies
+* New Media Editor: Journal of Online Media and Global Communication (2022)
+* Dept. Director: Academic Promotion Department of SISU (2021 - 2022)
+
