@@ -1,7 +1,10 @@
 ---
 title: "China Labor Trend"
+url: https://www.laodongqushi.com/
 layout: single
 collection: project
+role: "Project Member"
+duration: "2024.02 – 2024.05"
 permalink: /project/2024-cn-labor/
 ---
 
