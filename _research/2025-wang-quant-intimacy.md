@@ -5,6 +5,6 @@ collection: research
 type: publication
 authors: "Wang, Y., Qian, J."
 year: 2025
-status: "Under Review"
+status: "R&R"
 venue: "Journal of Children and Media"
 ---
