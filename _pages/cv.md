@@ -9,5 +9,5 @@ redirect_from:
 
 <h2>Curriculum Vitae</h2>
 <p>
-  You can find my CV here: [Yajing Wang'CV] (../assets/YajingWANG_CV)
+  You can find my CV here: [Yajing Wang's CV] (../assets/YajingWANG_CV)
 </p>
