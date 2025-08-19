@@ -7,9 +7,23 @@ redirect_from:
   - /about.html
 ---
 
+<div style="max-width: 800px; margin: 0 auto; font-family: 'Helvetica', Arial, sans-serif; line-height: 1.7; padding: 20px;">
 
-<div style="margin-top: 40px; max-width: 800px; line-height: 1.7; font-family: 'Helvetica', Arial, sans-serif;">
+  <h1 style="text-align: center; margin-bottom: 30px;">About Yajing</h1>
 
-Welcome to my home page! I’m Yajing, a Research Master student in the [Amsterdam School of Communication Research (ASCoR)](https://ascor.uva.nl/) at University of Amsterdam. I obtained my B.A in Journalism and Communication and International Relations and Organisations (<em>cum laude</em>) from the [School of Journalism and Communication](https://sjc.shisu.edu.cn/eng/) and the [Honours College](http://www.honors.shisu.edu.cn) at Shanghai International Studies University. My academic background includes international study at Oriel College, University of Oxford, and Korea University, where I studied Political Philosophy and Urban Studies.
+  <p>
+    Welcome to my home page! I’m <strong>Yajing</strong>, currently a Research Master student at the 
+    <em>Amsterdam School of Communication Research (ASCoR)</em>, University of Amsterdam, aiming for a PhD in HCI starting Fall 2026.
+  </p>
+
+  <p>
+    I obtained my B.A. in <strong>Journalism and Communication</strong> and 
+    <strong>International Relations and Organisations</strong> (<em>cum laude</em>) 
+    from the School of Journalism and Communication and the Honours College at 
+    Shanghai International Studies University.
+    My academic background also includes international study at <strong>Oriel College, University of Oxford</strong> 
+    and <strong>Korea University</strong>, where I focused on <em>Political Philosophy</em> and <em>Urban Studies</em>.
+  </p>
 
 </div>
+
