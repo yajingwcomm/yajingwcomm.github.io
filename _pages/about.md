@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br><br>
+<br>
 
 Welcome to my home page! I’m Yajing, currently a Research Master student in the [Amsterdam School of Communication Research (ASCoR)](https://ascor.uva.nl/) at University of Amsterdam, aiming for a PhD in HCI starting Fall 2026. I obtained my B.A in Journalism and Communication and International Relations and Organisations (*cum laude*) from the [School of Journalism and Communication](https://sjc.shisu.edu.cn/eng/) and the [Honours College](http://www.honors.shisu.edu.cn) at [Shanghai International Studies University](https://en.shisu.edu.cn/). My academic background includes international study at Oriel College, University of Oxford, and Korea University, where I studied Political Philosophy and Urban Studies.
 
