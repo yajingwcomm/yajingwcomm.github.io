@@ -26,5 +26,5 @@ author_profile: true
 ## [The Paper](https://www.thepaper.cn/) 
 - *04/2022 – 09/2022*  
 - International Journalist Intern  
-- Fact-checking Researcher
+- [Fact-checking Researcher](https://www.factpaper.cn/large)
 
