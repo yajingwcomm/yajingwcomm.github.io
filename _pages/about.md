@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "About Yajing"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 <div style="margin-top: 40px; max-width: 800px; line-height: 1.7; font-family: 'Helvetica', Arial, sans-serif;">
 
 Welcome to my home page! I’m Yajing, a Research Master student in the [Amsterdam School of Communication Research (ASCoR)](https://ascor.uva.nl/) at University of Amsterdam, aiming for a  PhD in HCI starting Fall 2026. 
