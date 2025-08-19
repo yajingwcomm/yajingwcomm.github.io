@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-## [Maison Margiela, OTB Group]([https://www.otb.net](https://www.otb.net/en/maison-margiela))    
+## [Maison Margiela, OTB Group](https://www.otb.net](https://www.otb.net/en/maison-margiela)   
 - *05/2023 - 08/2023*  
 - Digital Marketing & PR Intern
 
