@@ -5,25 +5,25 @@ permalink: /professional/
 author_profile: true
 ---
 
-## The Walt Disney Company  
+## [The Walt Disney Company](https://www.thewaltdisneycompany.com)  
 - *08/2023 – 06/2024*  
 - Film Studio Integrated Marketing & Analytics Intern
 
 ---
 
-## Maison Margiela, OTB Group  
+## [Maison Margiela, OTB Group]([https://www.otb.net](https://www.otb.net/en/maison-margiela))    
 - *05/2023 - 08/2023*  
 - Digital Marketing & PR Intern
 
 ---
 
-## Chronus Art Center  
+## [Chronus Art Center  ](https://chronusartcenter.org/)
 - *07/2022 - 12/2023*  
 - Curation and Public Project Intern (Digital Media Art)
 
 ---
 
-## The Paper  
+## [The Paper](https://www.thepaper.cn) 
 - *04/2022 – 09/2022*  
 - International Journalist Intern  
-- Fact-checking Program
+- Fact-checking Researcher
