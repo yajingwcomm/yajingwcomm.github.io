@@ -11,11 +11,11 @@ redirect_from:
 <div style="margin-top: 40px; max-width: 800px; line-height: 1.7; font-family: 'Helvetica', Arial, sans-serif;">
 
 <p>
-Welcome to my home page! I’m Yajing, currently a Research Master student in the <a href="https://ascor.uva.nl/" target="_blank">Amsterdam School of Communication Research (ASCoR)</a> at University of Amsterdam, aiming for a PhD in HCI starting Fall 2026.
+Hello World! I’m Yajing, currently a second-year Research Master student in the <a href="https://ascor.uva.nl/" target="_blank">Amsterdam School of Communication Research (ASCoR)</a> at University of Amsterdam, aiming for a PhD in HCI starting Fall 2026.
 </p>
 
 <p>
-I obtained my B.A in Journalism and Communication and International Relations and Organisations (<em>cum laude</em>) from the <a href="https://sjc.shisu.edu.cn/eng/" target="_blank">School of Journalism and Communication</a> and the <a href="http://www.honors.shisu.edu.cn" target="_blank">Honours College</a> at <a href="https://en.shisu.edu.cn/" target="_blank">Shanghai International Studies University</a>. My academic background includes international study at Oriel College, University of Oxford, and Korea University, where I studied Political Philosophy and Urban Studies.
+I obtained my B.A in Journalism and Communication Science and International Relations and Organizations (<em>cum laude</em>) from the <a href="https://sjc.shisu.edu.cn/eng/" target="_blank">School of Journalism and Communication</a> and the <a href="http://www.honors.shisu.edu.cn" target="_blank">Honours College</a> at <a href="https://en.shisu.edu.cn/" target="_blank">Shanghai International Studies University</a>. My academic background includes international study at Oriel College, University of Oxford, and Korea University, where I studied Political Philosophy and Urban Studies.
 </p>
 
 </div>
