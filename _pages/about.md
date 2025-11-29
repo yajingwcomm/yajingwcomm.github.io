@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Yajing"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 <div style="margin-top: 40px; max-width: 800px; line-height: 1.7; font-family: 'Helvetica', Arial, sans-serif;">
 
 <p>
-Hello World! I’m Yajing, currently a second-year Research Master student in the <a href="https://ascor.uva.nl/" target="_blank">Amsterdam School of Communication Research (ASCoR)</a> at University of Amsterdam, aiming for a PhD in HCI starting Fall 2026.
+Hello World! I’m Yajing (Hazel), currently a second-year Research Master student in the <a href="https://ascor.uva.nl/" target="_blank">Amsterdam School of Communication Research (ASCoR)</a> at University of Amsterdam, aiming for a PhD in HCI starting Fall 2026.
 </p>
 
 <p>
