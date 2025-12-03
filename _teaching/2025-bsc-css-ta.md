@@ -10,5 +10,5 @@ location: "Amsterdam, Netherlands"
 
 - Provide academic guidance on key theoretical frameworks and methodological approaches in computational social science  
 - Facilitate the development of group research projects through structured mentorship  
-- Deliver constructive feedback on students' assignments and presentations  
+- Graded and gave constructive feedback on students’ assignments and projects
 - Give workshops on academic writing, research design, and other essential scholarly skills
