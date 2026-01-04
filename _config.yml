@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yajing Wang"
+title                    : "Yajing (Hazel) Wang"
 title_separator          : "-"
-name                     : &name "Yajing Wang"
+name                     : &name "Yajing (Hazel) Wang"
 description              : &description "personal description"
 url                      : https://yajingwcomm.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "yajingwcomm/yajingwcomm.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yajing Wang"
+  name             : "Yajing (Hazel) Wang"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Amsterdam, Netherlands"
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "hazelwy.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "hazelwy.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
