@@ -8,7 +8,7 @@ date: 2025-09-01
 location: "Amsterdam, Netherlands"
 ---
 
-- Provide academic guidance on key theoretical frameworks and methodological approaches in computational social science  
-- Facilitate the development of group research projects through structured mentorship  
-- Graded and gave constructive feedback on students’ assignments and projects
-- Give workshops on academic writing, research design, and other essential scholarly skills
+- Provided academic guidance on key theoretical frameworks and methodological approaches in computational social science  
+- Facilitated the development of group research projects through structured mentorship  
+- Graded and gave constructive feedbacks on students’ assignments and projects
+- Delivered workshops on academic reading, research design, and other essential scholarly skills
